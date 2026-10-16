@@ -135,3 +135,11 @@ Business analysis, KPI definition, variance analysis, aggregation-grain awarenes
 ## License
 
 No license is included yet. Add one before explicitly granting others permission to reuse or redistribute the project.
+
+## Credits
+
+- **Created by:** Abu Humza Khan
+- **GitHub profile:** https://github.com/AbuHumzaKhan
+- **LinkedIn profile:** https://www.linkedin.com/in/abu-humza-khan/
+- **Source:** ChatGPT
+- **Design idea:** ChatGPT
